@@ -148,13 +148,11 @@ Projetos desenvolvidos utilizando:
 
 ## 📫 Contato
 
-📧 seuemail@email.com
+📧 cachinamaycom@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/seuusuario
+www.linkedin.com/in/cachina-data
 
-🌎 Portfólio:
-https://seusite.com
 
 ---
 
