@@ -150,15 +150,6 @@ Desenvolvedor Full Stack | Backend | Python | Go | React | Node.js
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🔥 Sequência de Contribuições
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🚀 Projetos em Destaque
 
