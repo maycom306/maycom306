@@ -182,37 +182,7 @@ Projetos Full Stack utilizando:
 - Especializar-me em Desenvolvimento Backend
 - Aprender Arquitetura de Software e Microsserviços
 - Contribuir para projetos Open Source
-
----
-
-# 📫 Contato
-
-📧 **seuemail@email.com**
-
-💼 **LinkedIn:** https://linkedin.com/in/seuusuario
-
-🌐 **Portfólio:** https://seusite.com
-
----
-
-<h3 align="center">
-⭐ Obrigado pela visita! Fique à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor.
-</h3>os utilizando:
-
-- Go
-- Gin
-- Fiber
-- FastAPI
-
----
-
-## 🎯 Objetivos
-
-- Evoluir como Desenvolvedor Backend
-- Trabalhar com sistemas distribuídos
-- Aprender arquitetura de microsserviços
-- Contribuir para projetos Open Source
-
+  
 ---
 
 ## 📫 Contato
