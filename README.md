@@ -36,9 +36,6 @@ Desenvolvedor Full Stack | Backend | Python | Go | React | Node.js
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Michael%20Cachina&fontSize=45&fontColor=ffffff"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=for-the-badge"/>
-</p>
 
 ---
 
