@@ -29,7 +29,7 @@ Desenvolvedor Backend | Python | Go | Machine Learning | Automação
 <h1 align="center">Olá! 👋 Eu sou Michael Cachina</h1>
 
 <h3 align="center">
-Desenvolvedor Full Stack | Backend | Python | Go | React | Node.js
+Desenvolvedor | Backend | Python | Go | React 
 </h3>
 
 <p align="center">
@@ -45,7 +45,7 @@ Desenvolvedor Full Stack | Backend | Python | Go | React | Node.js
 
 💻 Desenvolvedor Full Stack com foco em Backend, apaixonado por tecnologia, desenvolvimento de software e automação de processos.
 
-🚀 Tenho experiência no desenvolvimento de aplicações utilizando **Python, Go, JavaScript, TypeScript, Node.js e React**, além da criação de APIs REST e integração entre sistemas.
+🚀 Tenho experiência no desenvolvimento de aplicações utilizando **Python, Go, JavaScript, TypeScript e React**, além da criação de APIs REST e integração entre sistemas.
 
 📚 Possuo conhecimentos em:
 
@@ -157,7 +157,6 @@ Desenvolvimento de automações em Python para processamento de dados, integraç
 Projetos Full Stack utilizando:
 
 - React
-- Node.js
 - Python
 - Go
 - APIs REST
@@ -171,7 +170,6 @@ Projetos Full Stack utilizando:
 - Evoluir como Desenvolvedor Full Stack
 - Especializar-me em Desenvolvimento Backend
 - Aprender Arquitetura de Software e Microsserviços
-- Contribuir para projetos Open Source
   
 ---
 
@@ -181,8 +179,3 @@ Projetos Full Stack utilizando:
 
 💼 LinkedIn:
 www.linkedin.com/in/cachina-data
-
-
----
-
-⭐ Obrigado por visitar meu perfil!
